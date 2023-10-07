@@ -10,7 +10,7 @@ Examples:
 6. any facility's access (pool, spa, etc)
 7. Mifare classic 1k 4byte uid
 
-1. transit card "I am the egg man"
+transit card "I am the egg man"
 2. location uk manchester
 3. start balance
 4. current balance
