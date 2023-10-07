@@ -18,4 +18,7 @@ Examples:
 6. date used
 7. mifare desfire
 
+Laundry card - approx location (please not just EU or USA), student laundry, credit, cost per usage. type (eg desfire)
+Arcade card -  approx location (please not just EU or USA), credit, cost per usage, points, type (eg mifare ultralight)
+
 etc etc
